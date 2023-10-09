@@ -1,6 +1,1 @@
-*.css linguist-detectable=true
-*.java linguist-detectable=false
-*.python linguist-detectable=true 
-*.js linguist-detectable=false
-*.html linguist-detectable=true  
-*.xml linguist-detectable=false 
+dist/* linguist-vendored=false
