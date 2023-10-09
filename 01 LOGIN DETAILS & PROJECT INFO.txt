@@ -8,11 +8,4 @@ Username: staff
 Password: pass
 
 
-***********************************************
-**Orginal Version Developed by: B.M. Ashik Mahmud
-**Orginal Version Published @: https://freeprojectscodes.com/ [https://freeprojectscodes.com/pharmaceutical--inventory-system-in-php/]
-***********************************************
-**Customized by: oretnom23
-**Publisehd @: sourcecodester.com [https://sourcecodester.com/php-codeigniter-pharmaceutical-inventory-system-project]
-***********************************************
 
